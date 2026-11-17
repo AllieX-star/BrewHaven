@@ -1,0 +1,244 @@
+That's a good project. A **coffee shop landing page** is realistic, lets you practice design, and covers many of the skills you'll use on larger websites.
+
+Here's what you could include.
+
+## 1. Navigation Bar
+
+At the top of the page:
+
+* Coffee shop logo
+* Home
+* Menu
+* About
+* Testimonials
+* Contact
+* "Order Now" button
+
+---done
+
+## 2. Hero Section
+
+This is the first thing visitors see.
+
+Include:
+
+* A large coffee image
+* Catchy headline
+* Short description
+* Two buttons:
+
+  * ☕ Order Now
+  * 📖 View Menu
+
+Example text:
+
+> Freshly Brewed Coffee Every Morning
+>
+> Crafted with premium beans and served with passion.
+
+---done
+
+## 3. Featured Drinks
+
+Display your most popular drinks in cards.
+
+Example:
+
+| Image | Coffee     | Price |
+| ----- | ---------- | ----- |
+| ☕     | Espresso   | $3.50 |
+| ☕     | Cappuccino | $4.50 |
+| ☕     | Latte      | $5.00 |
+| ☕     | Mocha      | $5.50 |
+
+Each card can have:
+
+* Image
+* Name
+* Description
+* Price
+* Order button
+
+---done
+
+## 4. About Us
+
+Tell visitors about the coffee shop.
+
+Example:
+
+> We have been serving handcrafted coffee since 2015. Every cup is made from carefully selected beans sourced from trusted farmers around the world.
+
+---done
+
+## 5. Why Choose Us
+
+Use icons with short descriptions.
+
+Example:
+
+* 🌱 Premium Beans
+* 👨‍🍳 Expert Baristas
+🍰 Homemade pastries
+🌱 Organic ingredients
+❤️ Friendly service
+
+---donme
+
+## 6. Customer Reviews
+
+Three review cards.
+
+Example:
+
+⭐⭐⭐⭐⭐
+
+> "Best coffee in town!"
+
+— Sarah
+
+---
+
+⭐⭐⭐⭐
+
+> "Amazing atmosphere and delicious drinks."
+
+— David
+
+---
+
+⭐⭐⭐⭐⭐
+
+> "Friendly staff and quick service."
+
+— Emily
+
+---done
+
+## 7. Gallery
+
+A grid of coffee-related images:
+
+* Latte art
+* Coffee beans
+* Coffee cups
+* Café interior
+* Barista making coffee
+* Desserts
+
+---done
+
+## 8. Special Offer
+
+A section to attract customers.
+
+Example:
+
+> Get 20% Off Your First Order!
+
+Button:
+
+* Claim Offer
+
+---
+
+## 9. Contact Section
+
+Include:
+
+* Phone number
+* Email
+* Address
+* Opening hours
+
+Example:
+
+Monday–Friday
+
+8:00 AM – 8:00 PM
+
+Saturday
+
+9:00 AM – 6:00 PM
+
+Sunday
+
+Closed
+
+---done
+
+## 10. Footer
+
+Include:
+
+* Logo
+* Quick links
+* Social media icons
+* Copyright
+
+Example:
+
+© 2026 Brew Haven. All Rights Reserved.
+
+---
+
+# Skills you can practice
+
+* ✅ Flexbox
+* ✅ CSS Grid
+* ✅ Responsive Design
+* ✅ CSS Animations
+* ✅ Hover Effects
+* ✅ Buttons
+* ✅ Cards
+* ✅ Shadows
+* ✅ Gradients
+* ✅ Sticky Navbar
+* ✅ Smooth Scrolling
+* ✅ Mobile Navigation
+* ✅ Forms
+
+---
+
+# Color Palette
+
+A warm coffee-inspired palette works well:
+
+* Background: `#F8F5F2`
+* Dark Brown: `#4E342E`
+* Coffee Brown: `#6F4E37`
+* Latte Cream: `#D7CCC8`
+* Gold Accent: `#C89B3C`
+* White: `#FFFFFF`
+
+---
+
+# Fonts
+
+Choose one heading font and one body font:
+
+* **Headings:** Playfair Display
+* **Body:** Poppins
+
+---
+
+# Challenge Yourself
+
+If you want to push your skills further, try adding:
+
+* 🌙 A dark/light mode toggle
+* 🛒 A shopping cart sidebar
+* 🔍 Search for drinks
+* ❤️ Favorite button on each coffee card
+* ⬆️ A "Back to Top" button
+* ✨ Scroll animations
+* 📱 A responsive hamburger menu
+* ⏳ A loading animation
+
+Building this as a **single-page responsive website** with HTML, CSS, and a little JavaScript is an excellent way to practice. It touches on layout, styling, responsiveness, and basic interactivity without becoming too complex.
+
+
+
+
+
+
